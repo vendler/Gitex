@@ -1,1 +1,3 @@
-katt katt katt kattis
+#!/usr/bin/ruby
+print("katt katt katt kattis \n")
+
